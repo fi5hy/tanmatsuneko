@@ -15,3 +15,7 @@ body {
     margin-top:0.7em;
     margin-bottom: 30px;
     }
+
+ .container > * {
+    display: inline-block;
+}
