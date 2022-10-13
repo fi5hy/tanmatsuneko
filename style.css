@@ -16,7 +16,7 @@ body {
     margin-bottom: 30px;
     }
 
- .container > * {
+ .container {
     display: flex;
     align-items: center;
     justify-content: center;
