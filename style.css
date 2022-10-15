@@ -39,7 +39,7 @@ a {
   }
   a:hover {
     color: #ec8bff;
-    border-bottom: 2px solid #ec8bff;
+    border-bottom: 0px solid #ec8bff;
   }
 
   h1, h2, h3, h4, h5, h6 {
