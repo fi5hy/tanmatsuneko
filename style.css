@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    color: rgb(120, 115, 115);
+    color: #787373;
     font-size: 24px;
     font-weight: 100;
     letter-spacing: 0.115em;
@@ -24,6 +24,23 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+
+a {
+    text-decoration: none;
+  }
+  a:link {
+    color: #787373;
+    border-bottom: 0px solid #ff0000;
+  }
+  a:visited {
+    color: #787373;
+    border-bottom: 0px solid #b3b3b3;
+  }
+  a:hover {
+    color: #ec8bff;
+    border-bottom: 2px solid #ec8bff;
+  }
 
   h1, h2, h3, h4, h5, h6 {
     word-spacing: 10px;
