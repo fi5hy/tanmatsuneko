@@ -2,13 +2,13 @@
 
 :root {
 	--bg:	#2f343f;
-	--fg:	#787373;
+	--fg:	#565f74;
 	--hl1:	#6ba4e7;
 	--hl2:	#ed4737;
 }
 
 body {
-    color: #787373;
+    color: #565f74;
     font-size: 24px;
     font-weight: 100;
     letter-spacing: 0.115em;
