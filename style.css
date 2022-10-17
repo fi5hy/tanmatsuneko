@@ -1,3 +1,12 @@
+/* CSS style sheet because base html is ew */
+
+:root {
+	--bg:	#2f343f;
+	--fg:	#fafafa;
+	--hl1:	#6ba4e7;
+	--hl2:	#ed4737;
+}
+
 body {
     color: #787373;
     font-size: 24px;
