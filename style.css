@@ -24,6 +24,20 @@ body {
     justify-content: center;
 }
 
+.browser {
+    margin: auto;
+      margin-top: auto;
+    margin-top: 1em;
+    width: 87%;
+    max-width: 900px;
+    padding: 1.4em 2em 1.3em 2em;
+    text-align: justify;
+    font-family: C059, serif;
+    border: 6px double var(--hl1);
+    outline: 6px solid var(--bg);
+    color: var(--fg);
+    background: var(--bg);
+}
 
 a {
     text-decoration: none;
