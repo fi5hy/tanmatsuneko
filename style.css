@@ -1,9 +1,9 @@
 /* CSS style sheet because base html is gross */
 
 :root {
-	--bg:	#242424;
+	--bg:	#2f343f;
 	--fg:	#787373;
-	--hl1:	#787373;
+	--hl1:	#6ba4e7;
 	--hl2:	#ed4737;
 }
 
@@ -12,7 +12,7 @@ body {
     font-size: 24px;
     font-weight: 100;
     letter-spacing: 0.115em;
-    background-color: #242424;
+    background-color: #2f343f;
     font-family: Arial, Helvetica, sans-serif;
     word-spacing: 12px;
     padding: 10px;
