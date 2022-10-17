@@ -2,13 +2,13 @@
 
 :root {
 	--bg:	#2f343f;
-	--fg:	#565f74;
+	--fg:	#6a7591;
 	--hl1:	#6ba4e7;
 	--hl2:	#ed4737;
 }
 
 body {
-    color: #565f74;
+    color: #6a7591;
     font-size: 24px;
     font-weight: 100;
     letter-spacing: 0.115em;
@@ -55,16 +55,16 @@ a {
     text-decoration: none;
   }
   a:link {
-    color: #787373;
+    color: #6a7591;
     border-bottom: 0px solid #ff0000;
   }
   a:visited {
-    color: #787373;
+    color: #6a7591;
     border-bottom: 0px solid #b3b3b3;
   }
   a:hover {
-    color: #ec8bff;
-    border-bottom: 0px solid #ec8bff;
+    color: #ed4737;
+    border-bottom: 0px solid #ed4737;
   }
 
   h1, h2, h3, h4, h5, h6 {
